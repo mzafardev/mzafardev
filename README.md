@@ -38,7 +38,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" />
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
-
+  <img width="12" />
+<img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="40" height="40" alt="Expo" />
  
 </div>
 
